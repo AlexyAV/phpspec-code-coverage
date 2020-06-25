@@ -1,5 +1,5 @@
 {
-    "name": "friends-of-phpspec/phpspec-code-coverage",
+    "name": "alexyav/phpspec-code-coverage",
     "type": "library",
     "description": "Generate Code Coverage reports for PhpSpec tests",
     "keywords": [
